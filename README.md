@@ -14,6 +14,10 @@
 
 ---
 
+## video
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1DLl20xGPpQ72SVOb-ehCRyiAsJEVnF0y/view?usp=sharing)
+
+
 ## 🎯 Overview
 
 This project turns raw retail transaction data into a dashboard that lets anyone explore sales by **product category**, **gender**, **age group** and **time period**, using slicers and a timeline, with no formulas needed.
